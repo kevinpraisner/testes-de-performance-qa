@@ -1,0 +1,11 @@
+fromPort,toPort,inputName,address,city,cardType,creditCardNumber,creditCardMonth,creditCardYear,nameOnCard
+Paris,Buenos Aires,Carlos Oliveira,Rua das Flores 123,Curitiba,visa,4111111111111111,11,2027,Carlos Oliveira
+Philadelphia,Rome,Ana Souza,Av Paulista 456,São Paulo,mastercard,5500005555555559,12,2027,Ana Souza
+Boston,London,João Lima,Rua XV 789,Florianópolis,visa,4111111111111111,01,2028,João Lima
+Portland,Berlin,Maria Costa,Rua das Pedras 321,Porto Alegre,amex,371449635398431,03,2028,Maria Costa
+San Diego,New York,Pedro Ferreira,Rua do Sol 654,Recife,visa,4111111111111111,05,2028,Pedro Ferreira
+Mexico City,Dublin,Laura Santos,Av Beira Mar 987,Fortaleza,mastercard,5500005555555559,07,2028,Laura Santos
+Paris,Rome,Felipe Alves,Rua da Paz 147,Belo Horizonte,visa,4111111111111111,09,2028,Felipe Alves
+Philadelphia,London,Juliana Rocha,Rua Nova 258,Brasília,amex,371449635398431,11,2028,Juliana Rocha
+Boston,Berlin,Marcos Gomes,Rua Central 369,Manaus,visa,4111111111111111,02,2028,Marcos Gomes
+Portland,New York,Patricia Martins,Av das Nações 741,Belém,mastercard,5500005555555559,04,2028,Patricia Martins

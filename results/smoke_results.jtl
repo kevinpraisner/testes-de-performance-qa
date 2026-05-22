@@ -1,0 +1,60 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1779405678139,2007,TX-01: Home Page,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,4757,116,1,1,null,0,949,275
+1779405679088,2007,GET / - Home Page,200,OK,TG-01: Smoke Test 1-1,text,true,,4757,116,1,1,https://blazedemo.com/,1995,0,275
+1779405681096,1156,TX-02: Buscar Voos,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,7381,246,1,1,null,0,2426,0
+1779405683522,1156,POST /reserve.php - Buscar Voos,200,OK,TG-01: Smoke Test 1-1,text,true,,7381,246,1,1,https://blazedemo.com/reserve.php,1136,0,0
+1779405684678,318,TX-03: Escolher Voo,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,6715,280,1,1,null,0,0,0
+1779405684678,318,POST /purchase.php - Escolher Voo,200,OK,TG-01: Smoke Test 1-1,text,true,,6715,280,1,1,https://blazedemo.com/purchase.php,306,0,0
+1779405684996,265,TX-04: Confirmar Compra,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,5780,462,1,1,null,0,1387,0
+1779405686383,265,POST /confirmation.php - Confirmar Compra,200,OK,TG-01: Smoke Test 1-1,text,true,,5780,462,1,1,https://blazedemo.com/confirmation.php,253,0,0
+1779405686648,609,TX-01: Home Page,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,4757,116,1,1,null,0,959,173
+1779405687607,609,GET / - Home Page,200,OK,TG-01: Smoke Test 1-1,text,true,,4757,116,1,1,https://blazedemo.com/,597,0,173
+1779405688216,277,TX-02: Buscar Voos,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,7373,245,1,1,null,0,1645,0
+1779405689860,277,POST /reserve.php - Buscar Voos,200,OK,TG-01: Smoke Test 1-1,text,true,,7373,245,1,1,https://blazedemo.com/reserve.php,257,0,0
+1779405690138,300,TX-03: Escolher Voo,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,6715,279,1,1,null,0,0,0
+1779405690138,300,POST /purchase.php - Escolher Voo,200,OK,TG-01: Smoke Test 1-1,text,true,,6715,279,1,1,https://blazedemo.com/purchase.php,283,0,0
+1779405690438,388,TX-04: Confirmar Compra,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,5780,459,1,1,null,0,3327,0
+1779405693765,388,POST /confirmation.php - Confirmar Compra,200,OK,TG-01: Smoke Test 1-1,text,true,,5780,459,1,1,https://blazedemo.com/confirmation.php,376,0,0
+1779405694153,481,TX-01: Home Page,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,4757,116,1,1,null,0,945,148
+1779405695098,481,GET / - Home Page,200,OK,TG-01: Smoke Test 1-1,text,true,,4757,116,1,1,https://blazedemo.com/,467,0,148
+1779405695580,261,TX-02: Buscar Voos,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,7341,241,1,1,null,0,1733,0
+1779405697313,261,POST /reserve.php - Buscar Voos,200,OK,TG-01: Smoke Test 1-1,text,true,,7341,241,1,1,https://blazedemo.com/reserve.php,240,0,0
+1779405697574,354,TX-03: Escolher Voo,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,6715,275,1,1,null,0,1,0
+1779405697574,354,POST /purchase.php - Escolher Voo,200,OK,TG-01: Smoke Test 1-1,text,true,,6715,275,1,1,https://blazedemo.com/purchase.php,339,0,0
+1779405697929,260,TX-04: Confirmar Compra,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,5780,462,1,1,null,0,3908,0
+1779405701837,260,POST /confirmation.php - Confirmar Compra,200,OK,TG-01: Smoke Test 1-1,text,true,,5780,462,1,1,https://blazedemo.com/confirmation.php,248,0,0
+1779405702097,610,TX-01: Home Page,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,4757,116,1,1,null,0,204,146
+1779405702301,610,GET / - Home Page,200,OK,TG-01: Smoke Test 1-1,text,true,,4757,116,1,1,https://blazedemo.com/,598,0,146
+1779405702912,372,TX-02: Buscar Voos,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,7357,243,1,1,null,0,1382,0
+1779405704294,372,POST /reserve.php - Buscar Voos,200,OK,TG-01: Smoke Test 1-1,text,true,,7357,243,1,1,https://blazedemo.com/reserve.php,350,0,0
+1779405704666,309,TX-03: Escolher Voo,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,6715,277,1,1,null,0,0,0
+1779405704666,309,POST /purchase.php - Escolher Voo,200,OK,TG-01: Smoke Test 1-1,text,true,,6715,277,1,1,https://blazedemo.com/purchase.php,297,0,0
+1779405704975,317,TX-04: Confirmar Compra,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,5780,457,1,1,null,0,3374,0
+1779405708348,317,POST /confirmation.php - Confirmar Compra,200,OK,TG-01: Smoke Test 1-1,text,true,,5780,457,1,1,https://blazedemo.com/confirmation.php,305,0,0
+1779405708665,455,TX-01: Home Page,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,4757,116,1,1,null,0,628,149
+1779405709293,455,GET / - Home Page,200,OK,TG-01: Smoke Test 1-1,text,true,,4757,116,1,1,https://blazedemo.com/,444,0,149
+1779405709748,295,TX-02: Buscar Voos,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,7381,246,1,1,null,0,2029,0
+1779405711776,295,POST /reserve.php - Buscar Voos,200,OK,TG-01: Smoke Test 1-1,text,true,,7381,246,1,1,https://blazedemo.com/reserve.php,275,0,0
+1779405712072,496,TX-03: Escolher Voo,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,6715,280,1,1,null,0,0,0
+1779405712072,496,POST /purchase.php - Escolher Voo,200,OK,TG-01: Smoke Test 1-1,text,true,,6715,280,1,1,https://blazedemo.com/purchase.php,485,0,0
+1779405712568,269,TX-04: Confirmar Compra,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,5780,454,1,1,null,0,2672,0
+1779405715240,269,POST /confirmation.php - Confirmar Compra,200,OK,TG-01: Smoke Test 1-1,text,true,,5780,454,1,1,https://blazedemo.com/confirmation.php,257,0,0
+1779405715510,508,TX-01: Home Page,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,4757,116,1,1,null,0,1374,154
+1779405716884,508,GET / - Home Page,200,OK,TG-01: Smoke Test 1-1,text,true,,4757,116,1,1,https://blazedemo.com/,496,0,154
+1779405717392,312,TX-02: Buscar Voos,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,7381,246,1,1,null,0,1872,0
+1779405719264,312,POST /reserve.php - Buscar Voos,200,OK,TG-01: Smoke Test 1-1,text,true,,7381,246,1,1,https://blazedemo.com/reserve.php,291,0,0
+1779405719576,436,TX-03: Escolher Voo,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,6715,280,1,1,null,0,0,0
+1779405719576,436,POST /purchase.php - Escolher Voo,200,OK,TG-01: Smoke Test 1-1,text,true,,6715,280,1,1,https://blazedemo.com/purchase.php,424,0,0
+1779405720012,500,TX-04: Confirmar Compra,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,5780,461,1,1,null,0,4044,0
+1779405724056,500,POST /confirmation.php - Confirmar Compra,200,OK,TG-01: Smoke Test 1-1,text,true,,5780,461,1,1,https://blazedemo.com/confirmation.php,488,0,0
+1779405724556,992,TX-01: Home Page,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,4757,116,1,1,null,0,688,717
+1779405725243,992,GET / - Home Page,200,OK,TG-01: Smoke Test 1-1,text,true,,4757,116,1,1,https://blazedemo.com/,981,0,717
+1779405726236,287,TX-02: Buscar Voos,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,7317,238,1,1,null,0,2743,0
+1779405728979,287,POST /reserve.php - Buscar Voos,200,OK,TG-01: Smoke Test 1-1,text,true,,7317,238,1,1,https://blazedemo.com/reserve.php,267,0,0
+1779405729267,494,TX-03: Escolher Voo,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,6715,272,1,1,null,0,0,0
+1779405729267,494,POST /purchase.php - Escolher Voo,200,OK,TG-01: Smoke Test 1-1,text,true,,6715,272,1,1,https://blazedemo.com/purchase.php,479,0,0
+1779405729761,497,TX-04: Confirmar Compra,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,5780,458,1,1,null,0,4103,0
+1779405733864,497,POST /confirmation.php - Confirmar Compra,200,OK,TG-01: Smoke Test 1-1,text,true,,5780,458,1,1,https://blazedemo.com/confirmation.php,485,0,0
+1779405734362,837,TX-01: Home Page,200,"Number of samples in transaction : 1, number of failing samples : 0",TG-01: Smoke Test 1-1,,true,,4757,116,1,1,null,0,955,258
+1779405735317,837,GET / - Home Page,200,OK,TG-01: Smoke Test 1-1,text,true,,4757,116,1,1,https://blazedemo.com/,826,0,258
+1779405736154,0,TX-02: Buscar Voos,,,TG-01: Smoke Test 1-1,,true,,0,0,1,1,null,0,0,0
